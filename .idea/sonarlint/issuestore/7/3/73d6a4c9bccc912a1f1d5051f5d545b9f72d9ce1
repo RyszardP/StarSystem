@@ -1,0 +1,8 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8‡åºœò,
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8áÍëœò,
+Msquid:S1481
+"/Remove this unused "starSystem" local variable.(Æ¯¿Ã8Ä…†›ò,
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥œùŒýÿÿÿÿ8…¢½œò,
+\squid:S1854
+">Remove this useless assignment to local variable "starSystem".(Æ¯¿Ã8Ä…†›ò,
